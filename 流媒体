@@ -1,0 +1,10 @@
+#  Spotify
+USER-AGENT,Spotify*,ForeignMedia
+DOMAIN-SUFFIX,pscdn.co,ForeignMedia
+DOMAIN-SUFFIX,scdn.co,ForeignMedia
+DOMAIN-SUFFIX,spotify.com,ForeignMedia
+DOMAIN-SUFFIX,spoti.fi,ForeignMedia
+IP-CIDR,35.186.224.47/32,ForeignMedia
+# > Apple TV
+DOMAIN,linear.tv.apple.com,Streaming
+DOMAIN,play-edge.itunes.apple.com,Streaming
